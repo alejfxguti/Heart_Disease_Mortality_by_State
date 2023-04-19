@@ -1,0 +1,8 @@
+fiona
+geopandas
+plotly
+plotly chart-studio
+plotly_express
+pyviz
+hvplot
+
