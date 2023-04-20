@@ -42,9 +42,25 @@ We analyzed various data sources to determine whether insurance coverage, health
 
 
 ### Is there a relationship between health Insurance coverage and heart disease mortality rates?
+By replying to this question we are trying to identify if heart disease mortality has any correlation with insurance coverage or if insurance coverage has any impact on reducing the heart disease mortality within the United States.
 
 There is a general understanding, that access to health care indicated by insured and uninsured population has a correlation to heart disease mortality. 
 Scatter plots were used to determine the correlation and its linearity, along side the geographical visualization. It somewhat appears that states having the most uninsured population tends to have higher mortality rates than states having the most insured population. However, there could be other factors that could account for this analysis which were not considered in this analysis. 
+
+- Insured vs Mortality
+![LRInsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252181-ca03a2e7-c4e1-4012-a9f1-5c6689a47b93.png)
+
+The Linear Regression Statistics between Mortality & Insured per state has negative correlation with "r-value" -0.31 & r-squared 0.094 means 9.4% of Mortality (Death) has direct impact relationship from Insured citizens.
+"p-value" is 0.031 & the same with Std. Dev is almost 1.29 & that represents a negative correlation with scattered Standard Deviations. 
+Graph is a good proof that the more insured citizens the less heart disease mortality but doesn’t have high impact.
+
+- Uninsured vs Mortality
+![LRUninsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252205-aeeb1599-282c-431a-b9be-a9b1860c202d.png)
+
+The Linear Regression Statistics between Mortality & Uninsured per state has a positive correlation with "r-value" 0.31 & r-squared 0.094 means 9.4% of Mortality (Death) has direct proportional relationship with Uninsured citizens.
+p-value is 0.031 & the same with Std. Dev represents a positive correlation with scattered Standard Deviations not close to the linear regression line Std. Dev. 1.29 .
+And graph is a good proof that the more uninsured citizens the more heart disease mortality but doesn’t have high impact.
+
 
 ### Do states with higher healthcare spending per capita have higher rates of health insurance coverage?
 
