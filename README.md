@@ -102,4 +102,26 @@ The r-value 0.52 identifies moderate correlation. The r-squared value of 0.27 is
 
 
 ### Is there a relationship between a state’s location and its heart disease mortality rate?
+This scatter plot visualizes a state's latitude vs. its death rate per 100,000 people:
 
+![Alt text](../../../../../Downloads/lat_vs_rate.png)
+
+The r-value is: -0.337 \
+The r-squared is: 0.114 \
+The p-value is: 0.016 \
+The Std. Dev. is: 0.680
+
+The linear regression for Latitude vs Death Rate per State shows a negative correlation, meaning that as a state's latitude increases, their death rate decreases. The r-value of -0.337 indicates a fairly weak negative correlation between latitude and death rate per state. The r-squared value of 0.114 indicates that 91% of the variability in the outcome is due to factors not accounted for in the model. Additionally, the standard deviation of 0.680 is quite low, indicating that there is low variance in the data and the values are all very close to the mean. The p-value is quite strong at roughly 0.02, indicating very high accuracy of these findings.
+
+This scatter plot visualizes a state's latitude vs. its death rate per 100,000 people:
+
+![Alt text](../../../../../Downloads/lon_vs_rate.png)
+
+The r-value is: 0.263 \
+The r-squared is: 0.069 \
+The p-value is: 0.065 \
+The Std. Dev. is: 0.214
+
+The linear regression for Longitude vs Death Rate per State shows a positive correlation, meaning that as a state's longitude increases, so does its death rate. The r-value shows a weak correlation between state longitude and death rate at 0.263. The r-sqared value is roughly 0.07, indicating that 93% of the variability in the outcome is due to factors not accounted for in the model. The standard deviation of 0.214 is quite low, indicating that there is low variance in the data and the values are all very close to the mean. The p-value is fairly average at roughly 0.06, meaning that these findings are likely accurate.
+
+It is unlikely that the latitude or longitude of a state has much of an impact on the state's heart disease mortality rate, but there is some correlation. Based on these findings, it is very likely that the outcome is the result of other factors not accounted for in our analysis.
