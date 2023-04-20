@@ -39,12 +39,15 @@ We analyzed various data sources to determine whether insurance coverage, health
 
 ## Analysis
 ### Is there a relationship between health spending per capita and heart disease mortality rates? 
-
-
-
 Map visualization: 
 
-In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Heart disease Mortality rate with Health spending per capita. By identifying the states having Highest(Top 5) Deaths per 100k and Lowest(Bottom 5) Deaths per 100k we plotted them over the distribution of Average Health Spending per capita by State in Choropleth map. Blue and Red indicating the Lowest and Highest Deaths per 100k respectively. It somewhat appears that states spending the most in healthcare have lower mortality rates than states spending the least on healthcare. However, if there was a strong correlation between heart mortality rate and health spending by state, then we would have seen Texas, Nevada, Idaho, Utah, Arizona having the highest deaths per 100k. This tells us there could be other factors that could account for this analysis which were not considered in this analysis.
+In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Heart disease Mortality rate 
+with Health Spending per capita. By identifying the states having the Highest(Top 5) Deaths per 100k and Lowest(Bottom 5) Deaths per 100k we plotted them over the
+distribution of Average Health Spending per capita by State in a Choropleth map. Blue and Red indicating the Lowest and Highest Deaths per 100k respectively. 
+
+It somewhat appears that state spending the most in Healthcare have lower Mortality rates than states spending the least on Healthcare. 
+However, if there was a strong correlation between heart mortality rate and health spending by state, then we would have seen Texas, Nevada, Idaho, Utah, Arizona,
+indicating highest deaths per 100k. This tells us there could be other factors that could account for this outcome which were not considered in this analysis. 
 
 ![image](https://user-images.githubusercontent.com/126313924/233286266-1fe59473-f11e-4277-9f19-791ee0626ed2.png)
 ![image](https://user-images.githubusercontent.com/126313924/233286364-fc5c93a0-e071-41dd-b9da-802d358446f5.png)
@@ -72,7 +75,7 @@ And graph is a good proof that the more uninsured citizens the more heart diseas
 
 Map visualization: 
 
-In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Mortality rate with uninsured percentage. By identifying the states having Highest(Top 5) Deaths per 100k and Lowest(Bottom 5) Deaths per 100k we plotted them over the distribution of % uninsured by State in Choropleth map. Blue and Red indicating the Lowest and Highest Deaths per 100k respectively. It somewhat appears that states having the most uninsured population have higher mortality rates than states having the most insured population. However, if there was a strong correlation between heart mortality rate and % uninsured, then we would have seen Texas to be having the Highest deaths per 100k, Texas displaying the highest % uninsured.This tells us there could be other factors that could account for this analysis which were not considered in this analysis. 
+In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Mortality rate with uninsured percentage. By identifying the states having Highest(Top 5) Deaths per 100k and Lowest(Bottom 5) Deaths per 100k we plotted them over the distribution of % uninsured by State in Choropleth map. Blue and Red indicating the Lowest and Highest Deaths per 100k respectively. It somewhat appears that states having the most uninsured population have higher mortality rates than states having the most insured population. However, if there was a strong correlation between heart mortality rate and % uninsured, then we would have seen Texas to be having the Highest deaths per 100k, Texas displaying the highest % uninsured.This tells us there could be other factors that could account for this outcome which were not considered in this analysis. 
 
 ![image](https://user-images.githubusercontent.com/126313924/233284594-d047776b-19ee-4374-a0e3-6526fb68ad9a.png)
 ![image](https://user-images.githubusercontent.com/126313924/233284712-64f5870d-c120-4b9c-82cc-b90eb5ab1a68.png)
