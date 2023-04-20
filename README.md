@@ -62,16 +62,22 @@ Scatter plots:
 - Insured vs Mortality
 ![LRInsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252181-ca03a2e7-c4e1-4012-a9f1-5c6689a47b93.png)
 
-The Linear Regression Statistics between Mortality & Insured per state has negative correlation with "r-value" -0.31 & r-squared 0.094 means 9.4% of Mortality (Death) has direct impact relationship from Insured citizens.
-"p-value" is 0.031 & the same with Std. Dev is almost 1.29 & that represents a negative correlation with scattered Standard Deviations. 
-Graph is a good proof that the more insured citizens the less heart disease mortality but doesn’t have high impact.
+ - The Linear Regression Statistics between Mortality & Insured per state has weak NEGATIVE correlation coefficient "r-value" -0.31 
+ - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
+ - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
+ - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean
+ - Graph is a good proof that the more insured citizens the less heart disease mortality but with a very weak impact.
+
 
 - Uninsured vs Mortality
 ![LRUninsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252205-aeeb1599-282c-431a-b9be-a9b1860c202d.png)
 
-The Linear Regression Statistics between Mortality & Uninsured per state has a positive correlation with "r-value" 0.31 & r-squared 0.094 means 9.4% of Mortality (Death) has direct proportional relationship with Uninsured citizens.
-p-value is 0.031 & the same with Std. Dev represents a positive correlation with scattered Standard Deviations not close to the linear regression line Std. Dev. 1.29 .
-And graph is a good proof that the more uninsured citizens the more heart disease mortality but doesn’t have high impact.
+ - The Linear Regression Statistics between Mortality & Insured per state has weak POSITIVE correlation coefficient "r-value" -0.31 
+ - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
+ - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
+ - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean.
+ - Graph is a good proof that the more uninsured citizens the less heart disease mortality but with a very weak impact.
+
 
 Map visualization: 
 
