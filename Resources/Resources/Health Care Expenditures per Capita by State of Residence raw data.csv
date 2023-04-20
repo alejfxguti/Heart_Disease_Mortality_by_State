@@ -1,0 +1,68 @@
+﻿Title: Health Care Expenditures per Capita by State of Residence | KFF,
+Timeframe: 2019,
+Location,Health Spending per Capita
+United States,"$9,671 "
+Alabama,"$8,741 "
+Alaska,"$13,226 "
+Arizona,"$8,145 "
+Arkansas,"$8,853 "
+California,"$9,628 "
+Colorado,"$8,286 "
+Connecticut,"$11,831 "
+Delaware,"$12,213 "
+District of Columbia,"$13,934 "
+Florida,"$9,490 "
+Georgia,"$8,243 "
+Hawaii,"$9,555 "
+Idaho,"$7,723 "
+Illinois,"$9,496 "
+Indiana,"$9,927 "
+Iowa,"$9,193 "
+Kansas,"$8,745 "
+Kentucky,"$9,744 "
+Louisiana,"$9,657 "
+Maine,"$11,488 "
+Maryland,"$10,248 "
+Massachusetts,"$12,729 "
+Michigan,"$9,532 "
+Minnesota,"$10,510 "
+Mississippi,"$8,745 "
+Missouri,"$9,431 "
+Montana,"$9,808 "
+Nebraska,"$9,917 "
+Nevada,"$8,114 "
+New Hampshire,"$11,310 "
+New Jersey,"$11,264 "
+New Mexico,"$8,459 "
+New York,"$12,932 "
+North Carolina,"$8,619 "
+North Dakota,"$10,653 "
+Ohio,"$10,173 "
+Oklahoma,"$8,923 "
+Oregon,"$9,635 "
+Pennsylvania,"$11,175 "
+Rhode Island,"$10,988 "
+South Carolina,"$8,345 "
+South Dakota,"$11,627 "
+Tennessee,"$8,827 "
+Texas,"$8,028 "
+Utah,"$7,193 "
+Vermont,"$12,159 "
+Virginia,"$8,826 "
+Washington,"$8,964 "
+West Virginia,"$11,951 "
+Wisconsin,"$9,652 "
+Wyoming,"$10,111 "
+,
+Notes,
+"The Centers for Medicare and Medicaid Services (CMS) Office of the Actuary produces Health Expenditures by State of Residence and Health Expenditures by State of Provider every five years. The State Health Expenditure Accounts are a subcomponent of the National Health Expenditure Accounts (NHEA), the official government estimates of health spending in the United States.  ",
+,
+Additional information on data and methods is available [here.](http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html)  ,
+,
+"For additional analysis of these data, please see Health Affairs article, [""Health Spending by State, 1991-2014: Measuring Per Capita Spending by Payer and Programs""](http://content.healthaffairs.org/content/early/2017/06/13/hlthaff.2017.0416).",
+,
+Sources,
+"Centers for Medicare & Medicaid Services, Office of the Actuary, National Health Statistics Group. [National Health Expenditure Data: Health Expenditures by State of Residence](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html), August 2022.",
+,
+Definitions,
+"*Health Spending Per Capita* includes spending for all privately and publicly funded personal health care services and products (hospital care, physician services, nursing home care, prescription drugs, etc.) by state of residence (aggregate spending divided by population). Hospital spending is included and reflects the total net revenue (gross charges less contractual adjustments, bad debts, and charity care). Costs such as insurance program administration, research, and construction expenses are not included in this total.",
