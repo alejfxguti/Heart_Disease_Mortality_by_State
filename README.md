@@ -104,7 +104,7 @@ The r-value 0.52 identifies moderate correlation. The r-squared value of 0.27 is
 ### Is there a relationship between a state’s location and its heart disease mortality rate?
 This scatter plot visualizes a state's latitude vs. its death rate per 100,000 people:
 
-![Alt text](../../../../../Downloads/lat_vs_rate.png)
+![lat_vs_rate](https://user-images.githubusercontent.com/123991074/233485308-d2787197-289b-42e2-8d53-aa23eec9c042.png)
 
 The r-value is: -0.337 \
 The r-squared is: 0.114 \
@@ -115,7 +115,7 @@ The linear regression for Latitude vs Death Rate per State shows a negative corr
 
 This scatter plot visualizes a state's latitude vs. its death rate per 100,000 people:
 
-![Alt text](../../../../../Downloads/lon_vs_rate.png)
+![lon_vs_rate](https://user-images.githubusercontent.com/123991074/233485479-6d58a6fc-8188-4c87-ab84-a445bee3872b.png)
 
 The r-value is: 0.263 \
 The r-squared is: 0.069 \
