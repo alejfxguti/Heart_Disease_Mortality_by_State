@@ -44,9 +44,9 @@ We analyzed various data sources to determine whether insurance coverage, health
 ### Is there a relationship between health Insurance coverage and heart disease mortality rates?
 By replying to this question we are trying to identify if heart disease mortality has any correlation with insurance coverage or if insurance coverage has any impact on reducing the heart disease mortality within the United States.
 
-There is a general understanding, that access to health care indicated by insured and uninsured population has a correlation to heart disease mortality. 
-Scatter plots were used to determine the correlation and its linearity, along side the geographical visualization. It somewhat appears that states having the most uninsured population tends to have higher mortality rates than states having the most insured population. However, there could be other factors that could account for this analysis which were not considered in this analysis. 
+Scatter plots were used to determine the correlation and its linearity, followed by the geographical visualization. 
 
+Scatter plots: 
 - Insured vs Mortality
 ![LRInsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252181-ca03a2e7-c4e1-4012-a9f1-5c6689a47b93.png)
 
@@ -60,6 +60,13 @@ Graph is a good proof that the more insured citizens the less heart disease mort
 The Linear Regression Statistics between Mortality & Uninsured per state has a positive correlation with "r-value" 0.31 & r-squared 0.094 means 9.4% of Mortality (Death) has direct proportional relationship with Uninsured citizens.
 p-value is 0.031 & the same with Std. Dev represents a positive correlation with scattered Standard Deviations not close to the linear regression line Std. Dev. 1.29 .
 And graph is a good proof that the more uninsured citizens the more heart disease mortality but doesn’t have high impact.
+
+Map visualization: 
+
+In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Mortality rate with uninsured percentage. By identifying the states having Highest(Top 5) Deaths per 100k and Lowest(Bottom 5) Deaths per 100k we plotted them over the distribution of % uninsured by State in Choropleth map. Blue and Red indicating the Lowest and Highest Deaths per 100k respectively. It somewhat appears that states having the most uninsured population have higher mortality rates than states having the most insured population. However, if there was a strong correlation between between heart mortality and % uninsured, then we would have expected Texas to be having the Highest deaths per 100k, Texas displaying the highest % uninsured.This tells us there could be other factors that could account for this analysis which were not considered in this analysis. 
+
+![image](https://user-images.githubusercontent.com/126313924/233284594-d047776b-19ee-4374-a0e3-6526fb68ad9a.png)
+![image](https://user-images.githubusercontent.com/126313924/233284712-64f5870d-c120-4b9c-82cc-b90eb5ab1a68.png)
 
 
 ### Do states with higher healthcare spending per capita have higher rates of health insurance coverage?
