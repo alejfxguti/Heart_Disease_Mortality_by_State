@@ -82,7 +82,9 @@ In support of the linear regression analysis in scatter plots, this map acts lik
 
 
 ### Do states with higher healthcare spending per capita have higher rates of health insurance coverage?
+This scatter plot shows the correlation between healthcare spending vs health insurance coverage. Different types of health coverage is identified across all the states in the US during 2019. The types of health coverage includes employer, non-group, Medicaid, Medicare, and Military. States with higher healthcare spending tend to have a greater percentage of insured coverage.
 
+The r-value 0.52 identifies moderate correlation. The r-squared value is fairly low and does no explain the variation in the data much. The low p-value is statistically significant and most likely the null hypothesis is rejected. The low standard deviation indicates that the data is close to the mean.
 
 ### Is there a relationship between a state’s location and its heart disease mortality rate?
 
