@@ -43,6 +43,8 @@ We analyzed various data sources to determine whether insurance coverage, health
 
 ### Is there a relationship between health Insurance coverage and heart disease mortality rates?
 
+There is a general understanding, that access to health care indicated by insured and uninsured population has a correlation to heart disease mortality. 
+Scatter plots were used to determine the correlation and its linearity, along side the geographical visualization. It somewhat appears that states having the most uninsured population tends to have higher mortality rates than states having the most insured population. However, there could be other factors that could account for this analysis which were not considered in this analysis. 
 
 ### Do states with higher healthcare spending per capita have higher rates of health insurance coverage?
 
