@@ -41,6 +41,15 @@ We analyzed various data sources to determine whether insurance coverage, health
 ### Is there a relationship between health spending per capita and heart disease mortality rates? 
 
 
+
+Map visualization: 
+
+In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Heart disease Mortality rate with Health spending per capita. By identifying the states having Highest(Top 5) Deaths per 100k and Lowest(Bottom 5) Deaths per 100k we plotted them over the distribution of Average Health Spending per capita by State in Choropleth map. Blue and Red indicating the Lowest and Highest Deaths per 100k respectively. It somewhat appears that states spending the most in healthcare have lower mortality rates than states spending the least on healthcare. However, if there was a strong correlation between heart mortality rate and health spending by state, then we would have seen Texas, Nevada, Idaho, Utah, Arizona having the highest deaths per 100k. This tells us there could be other factors that could account for this analysis which were not considered in this analysis.
+
+![image](https://user-images.githubusercontent.com/126313924/233286266-1fe59473-f11e-4277-9f19-791ee0626ed2.png)
+![image](https://user-images.githubusercontent.com/126313924/233286364-fc5c93a0-e071-41dd-b9da-802d358446f5.png)
+
+
 ### Is there a relationship between health Insurance coverage and heart disease mortality rates?
 By replying to this question we are trying to identify if heart disease mortality has any correlation with insurance coverage or if insurance coverage has any impact on reducing the heart disease mortality within the United States.
 
