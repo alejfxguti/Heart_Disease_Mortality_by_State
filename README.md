@@ -62,21 +62,21 @@ Scatter plots:
 - Insured vs Mortality
 ![LRInsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252181-ca03a2e7-c4e1-4012-a9f1-5c6689a47b93.png)
 
- - The Linear Regression Statistics between Mortality & Insured per state has weak NEGATIVE correlation coefficient "r-value" -0.31 
- - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
- - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
- - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean
- - Graph is a good proof that the more insured citizens the less heart disease mortality but with a very weak impact.
+     - The Linear Regression Statistics between Mortality & Insured per state has weak NEGATIVE correlation coefficient "r-value" -0.31 
+     - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
+     - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
+     - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean
+     - Graph is a good proof that the more insured citizens the less heart disease mortality but with a very weak impact.
 
 
 - Uninsured vs Mortality
 ![LRUninsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252205-aeeb1599-282c-431a-b9be-a9b1860c202d.png)
 
- - The Linear Regression Statistics between Mortality & Insured per state has weak POSITIVE correlation coefficient "r-value" -0.31 
- - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
- - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
- - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean.
- - Graph is a good proof that the more uninsured citizens the less heart disease mortality but with a very weak impact.
+     - The Linear Regression Statistics between Mortality & Insured per state has weak POSITIVE correlation coefficient "r-value" -0.31 
+     - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
+     - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
+     - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean.
+     - Graph is a good proof that the more uninsured citizens the less heart disease mortality but with a very weak impact.
 
 
 Map visualization: 
