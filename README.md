@@ -1,6 +1,17 @@
 # Heart Disease Mortality by State
 What factors – if any – contribute to disparities in rates of heart disease mortality between U.S. states?
 
+## Contributors
+- Hany Dief -- (@hanydief)
+- Katie Djahan -- (@katiedjahan)
+- Alejandro Gutierrez -- (@alejfxguti)
+- Bijoyeta Kayal -- (@BijoyetaK)
+- Tristan Marcum -- (@TinTesla)
+- Niti Patel -- (@niti2442)
+
+## Google Slides Presentation Link
+- https://docs.google.com/presentation/d/1RItzAx6IIT7TmEUKtCG-CGicsitFdo_TUHq8sZhzmts/edit?usp=sharing
+
 ## Problem Overview
 Heart Disease Mortality is a serious public health issue and one of the leading causes of death in the US. Understanding the factors that are associated with heart disease mortality is crucial in identifying potential solutions to this problem.
 
