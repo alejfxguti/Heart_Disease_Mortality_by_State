@@ -39,6 +39,19 @@ We analyzed various data sources to determine whether insurance coverage, health
 
 ## Analysis
 ### Is there a relationship between health spending per capita and heart disease mortality rates? 
+We wanted to investigate whether the amount a state pays per person on health care services impacts heart disease mortality rates. We hypothesized that states who spend more per person would likely have lower heart disease mortality rates.
+
+Scatter plot was used to determine the correlation and its linearity, followed by the geographical visualization. 
+
+Scatter plot: 
+- Spending vs Mortality
+![SpendingVsMortality](output_fig/LRSpendingVsMortality.png)
+
+- The rvalue is -0.2378, indicating a weak negative correlation between health spending per capita and heart disease mortality rate.
+- The r-squared value is 0.0566, indicating that only 5.7% of the variation in heart disease mortality rate can be explained by health spending per capita.
+- The p-value is 0.0963, which is not statistically significant at the standard 0.05 level, suggesting that there is not strong enough evidence to say that there is a significant relationship between health spending per capita and heart disease mortality rate.
+- The standard deviation of 0.0028 suggests that the regression line is a relatively decent fit for the data, as the distance between the actual data points and the predicted values is relatively small. 
+
 Map visualization: 
 
 In support of the linear regression analysis in scatter plots, this map acts like a visual journey to establish the correlation of Heart disease Mortality rate 
