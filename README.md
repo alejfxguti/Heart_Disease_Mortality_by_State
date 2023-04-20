@@ -38,7 +38,6 @@ We analyzed various data sources to determine whether insurance coverage, health
 - Is there a relationship between a state’s location and its heart disease mortality rate?
 
 ## Analysis
--------
 ### Is there a relationship between health spending per capita and heart disease mortality rates? 
 
 
