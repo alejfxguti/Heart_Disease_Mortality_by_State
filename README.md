@@ -69,6 +69,16 @@ We analyzed various data sources to determine whether insurance coverage, health
 
 ## Analysis
 ### Is there a relationship between health spending per capita and heart disease mortality rates? 
+
+The bar chart shows the deaths rates per 100k by state from Highest to Lowest: 
+
+![image](https://user-images.githubusercontent.com/126313924/233537324-b228c34a-5598-4345-ae91-3a7bc7e804cd.png)
+
+Map shows the distribution of Average Healthcare spending by State from Highest to Lowest spending states by color: 
+
+![image](https://user-images.githubusercontent.com/126313924/233537605-833327c6-9605-4639-a69e-6590858de9ed.png)
+
+
 We wanted to investigate whether the amount a state pays per person on health care services impacts heart disease mortality rates. We hypothesized that states who spend more per person would likely have lower heart disease mortality rates.
 
 Scatter plot was used to determine the correlation and its linearity, followed by the geographical visualization. 
