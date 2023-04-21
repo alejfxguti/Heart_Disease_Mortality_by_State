@@ -110,6 +110,12 @@ indicating highest deaths per 100k. This tells us there could be other factors t
 ### Is there a relationship between health Insurance coverage and heart disease mortality rates?
 By replying to this question we are trying to identify if heart disease mortality has any correlation with insurance coverage or if insurance coverage has any impact on reducing the heart disease mortality within the United States.
 
+Map shows the distribution of % Uninsured by State from Highest to Lowest by color:
+
+![image](https://user-images.githubusercontent.com/126313924/233538630-210b6a68-d95a-464f-aee1-77c824b2b437.png)
+
+We can clearly see that - Texas, Oklahama,Florida,Georgia,Mississippi being the top 5 states that has the highest % uninsured which helps as a reference to correlation calculations in this question. 
+
 Scatter plots were used to determine the correlation and its linearity, followed by the geographical visualization. 
 
 Scatter plots: 
