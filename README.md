@@ -146,14 +146,13 @@ This map acts like a visual journey to establish the correlation of Mortality ra
 
 
 ### Do states with higher healthcare spending per capita have higher rates of health insurance coverage?
+![Screenshot 2023-04-18 194921](https://user-images.githubusercontent.com/123844669/233545950-6abfa7f5-3259-4087-9b13-3e5931ab7306.png)
 This scatter plot shows the correlation between healthcare spending vs health insurance coverage. Different types of health coverage is identified across all the states in the US during 2019. The types of health coverage includes employer, non-group, Medicaid, Medicare, and Military. States with higher healthcare spending tend to have a greater percentage of insured coverage.
 
 The r-value 0.52 identifies moderate correlation. The r-squared value of 0.27 is fairly low and does no explain the variation in the data much. The low p-value is statistically significant and most likely the null hypothesis is rejected. The low standard deviation indicates that the data is close to the mean.
 
 
 ![Unknown](https://user-images.githubusercontent.com/125218833/233448394-0e43e4b4-f0af-4d3b-8e7c-9d261de76762.png)
-
-
 
 
 
