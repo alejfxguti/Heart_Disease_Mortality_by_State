@@ -115,7 +115,7 @@ Scatter plots:
 - Uninsured vs Mortality
 ![LRUninsuredVsMortality](https://user-images.githubusercontent.com/123844669/233252205-aeeb1599-282c-431a-b9be-a9b1860c202d.png)
 
-     - The Linear Regression Statistics between Mortality & Insured per state has weak POSITIVE correlation coefficient "r-value" -0.31 
+     - The Linear Regression Statistics between Mortality & Uninsured per state has weak POSITIVE correlation coefficient "r-value" +0.31 
      - The 0.094 is a small r-squared value means 9.4% of Mortality (Death) has dependency on Insurance coverage & that’s a WEAK direct impact relationship.
      - The "p-value" 0.031 is lower than the significance level (P ≤ 0.05) means that the test hypothesis is false or should be rejected.
      - 1.29 Std. Dev shows that the data points spread around the regression line values are generally far & scattered from the mean.
