@@ -78,6 +78,8 @@ Map shows the distribution of Average Healthcare spending by State from Highest 
 
 ![image](https://user-images.githubusercontent.com/126313924/233537605-833327c6-9605-4639-a69e-6590858de9ed.png)
 
+We can see that - Utah, Texas, Idaho, Arizona, Nevada being states which tends to spend less towards healthcare services, this helps us to do our analysis of the first 
+question. 
 
 We wanted to investigate whether the amount a state pays per person on health care services impacts heart disease mortality rates. We hypothesized that states who spend more per person would likely have lower heart disease mortality rates.
 
