@@ -169,4 +169,4 @@ The linear regression for Longitude vs Death Rate per State shows a positive cor
 
 It is unlikely that the latitude or longitude of a state has much of an impact on the state's heart disease mortality rate, but there is some correlation. Based on these findings, it is very likely that the outcome is the result of other factors not accounted for in our analysis.
 
-#### References guides used for Choropleth maps
+
