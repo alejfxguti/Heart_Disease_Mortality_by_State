@@ -98,7 +98,7 @@ Map visualization:
 The map acts like a visual journey to establish the correlation of Heart disease Mortality rate with Health Spending per capita. 
 Orange and Red indicating the Lowest and Highest Deaths per 100k respectively. 
 
-It somewhat appears that state spending the most in Healthcare have lower Mortality rates than states spending the least on Healthcare. 
+It somewhat appears that states spending the most in Healthcare have lower Mortality rates than states spending the least on Healthcare. 
 However, if there was a significantly strong correlation between heart mortality rate and health spending by state, then we would have expected to see Texas, Nevada, Idaho, Utah, Arizona,indicating highest deaths per 100k, but it is not. This tells us there could be other factors that could account for this outcome which were not considered in this analysis. 
 
 ![image](https://user-images.githubusercontent.com/126313924/233286266-1fe59473-f11e-4277-9f19-791ee0626ed2.png)
