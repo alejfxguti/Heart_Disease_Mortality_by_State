@@ -31,6 +31,36 @@ We analyzed various data sources to determine whether insurance coverage, health
     - GeoJSON file has an ID field or some identifying value in properties which is used as a key to match the values of locations/state codes included our dataframes.
 - We did not use the individual breakdowns of the types of insurance in the first dataframe
 
+## Installations/Prerequisites for choropleth maps: 
+    - plotly
+    - plotly_express
+    - plotly chart_studio
+    - geopandas
+    - fiona
+    - folium
+
+## Reference guides used: 
+
+    - plotly
+       - https://plotly.com/python/getting-started/
+       - https://towardsdatascience.com/geographical-plotting-of-maps-with-plotly-4b5a5c95f02a
+       - https://plotly.com/python/choropleth-maps/
+       
+    - folium 
+       - https://towardsdatascience.com/folium-and-choropleth-map-from-zero-to-pro-6127f9e68564
+       - https://towardsdatascience.com/folium-mapping-displaying-markers-on-a-map-6bd56f3e3420
+       - https://www.analyticsvidhya.com/blog/2020/06/guide-geospatial-analysis-folium-python/
+       - https://github.com/python-visualization/folium/issues/403 --> choosing color schemes
+       - https://github.com/python-visualization/folium/issues/1202 --> adding titles to maps
+       - https://getbootstrap.com/docs/3.3/components/#glyphicons-glyphs --> icon set options
+
+## Instructions to open the html image files - 
+       - 1) Click on the html file 
+       - 2) View Raw -> opens HTML code 
+       - 3) Right click on the code 
+       - 4) Save as HTML file in your local
+       - 5) Open to view as HTML
+
 ## Research Questions
 - Is there a relationship between health spending per capita and heart disease mortality rates? 
 - Is there a relationship between health Insurance coverage and heart disease mortality rates?
@@ -138,3 +168,5 @@ The Std. Dev. is: 0.214
 The linear regression for Longitude vs Death Rate per State shows a positive correlation, meaning that as a state's longitude increases, so does its death rate. The r-value shows a weak correlation between state longitude and death rate at 0.263. The r-sqared value is roughly 0.07, indicating that 93% of the variability in the outcome is due to factors not accounted for in the model. The standard deviation of 0.214 is quite low, indicating that there is low variance in the data and the values are all very close to the mean. The p-value is fairly average at roughly 0.06, meaning that these findings are likely accurate.
 
 It is unlikely that the latitude or longitude of a state has much of an impact on the state's heart disease mortality rate, but there is some correlation. Based on these findings, it is very likely that the outcome is the result of other factors not accounted for in our analysis.
+
+#### References guides used for Choropleth maps
