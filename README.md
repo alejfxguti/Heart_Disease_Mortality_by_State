@@ -184,6 +184,10 @@ The Std. Dev. is: 0.214
 
 The linear regression for Longitude vs Death Rate per State shows a positive correlation, meaning that as a state's longitude increases, so does its death rate. The r-value shows a weak correlation between state longitude and death rate at 0.263. The r-sqared value is roughly 0.07, indicating that 93% of the variability in the outcome is due to factors not accounted for in the model. The standard deviation of 0.214 is quite low, indicating that there is low variance in the data and the values are all very close to the mean. The p-value is fairly average at roughly 0.06, meaning that these findings are likely accurate.
 
+<img width="764" alt="Screenshot 2023-04-19 at 2 56 01 PM" src="https://user-images.githubusercontent.com/123991074/233539727-20da6b50-b598-404f-b574-5dd57bec2e6c.png">
+
+This map shows the death rate per state. The size of the points is the death rate per 100,000 people in that state. This visual shows that, while there is not much variation in the death rates per state, the points do become larger as the latitude increases and the longitude increases. This provides a more visual representation of the results shown by the scatter plots above.
+
 It is unlikely that the latitude or longitude of a state has much of an impact on the state's heart disease mortality rate, but there is some correlation. Based on these findings, it is very likely that the outcome is the result of other factors not accounted for in our analysis.
 
 
